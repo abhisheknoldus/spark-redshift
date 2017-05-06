@@ -90,7 +90,7 @@ to use these snapshots in your build, you'll need to add the JitPack repository 
    then
 
    ```
-   libraryDependencies += "com.github.databricks" %% "spark-redshift" % "master-SNAPSHOT"
+   libraryDependencies += "com.databricks" %% "spark-redshift" % "master-SNAPSHOT"
    ```
 
 - In Databricks: use the "Advanced Options" toggle in the "Create Library" screen to specify
